@@ -77,7 +77,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="registration">Registration</h2>
 
-<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. Registration is free and required and seats are limited. <a href="https://ku.libwizard.com/f/2024-01-09-ku-dc" target="_blank">Register for this workshop</a> by January 3, 2024.</p>
+<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. The workshop is full. You may <a href="https://ku.libwizard.com/f/2024-01-09-ku-dc_waitlist" target="_blank">add your name to the waitlist</a> to be notified if a seat becomes available.</p>
 
 <h2 id="general">General Information</h2>
 
